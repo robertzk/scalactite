@@ -6,3 +6,5 @@ object Summer {
 }
 
 // scalac 03_singleton_checksum.scala 04_main.scala
+//// Or the "fast scala compile" daemon
+// fsc 03_singleton_checksum.scala 04_main.scala
