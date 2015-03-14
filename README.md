@@ -1,2 +1,2 @@
-# scalactite
-Early exercises in picking up Scala
+# Early exercises in picking up Scala
+
